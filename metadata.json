@@ -1,0 +1,7 @@
+{
+  "name": "百声製造所",
+  "description": "高精度なAI文字起こしアプリ。マイク録音またはファイルアップロードから、Gemini AIを使用して音声を瞬時にテキスト化します。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
